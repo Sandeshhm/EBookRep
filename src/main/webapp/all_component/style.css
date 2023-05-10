@@ -1,0 +1,8 @@
+.container-fluid{
+	background: #F0F8FF;
+}
+.navbar .nav-item:hover .nav-link {
+	background-color: white;
+	color: black;
+	border-radius: 15px;
+}
