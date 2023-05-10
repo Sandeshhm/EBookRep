@@ -4,7 +4,7 @@
 <div class="container-fluid p-3">
 	<div class="row">
 		<div class="col-md-3">
-			<h3>Ebooks</h3>
+			<h3>Ebook Online</h3>
 
 		</div>
 		<div class="col-md-6">
